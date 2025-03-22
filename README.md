@@ -55,7 +55,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishnapriya-prasannan&show_icons=true&theme=radical" width="48%" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnapriya-prasannan&theme=radical" width="48%" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnapriya-prasannan&theme=radical" width="48%" height="210" />
 </div>
 
 <div align="center">
