@@ -1,21 +1,30 @@
 ## Hi there 👋 I'm Krishnapriya Prasannan  
-**B.Tech Computer Science student** | **Web Developer** | **AI & ML Enthusiast**  
+**B.Tech Computer Science Student** | **Web Developer** | **AI & ML Enthusiast**  
 
 ---
 
 ### 🚀 Currently Working On  
-🔹 **VideoQuery** | 🔹 **EnergyConsumptionModel** | 🔹 **CalorieCalculator** | 🔹 **RAG-DSC**  
+🔹 **VideoQuery**  
+🔹 **EnergyConsumptionModel**  
+🔹 **CalorieCalculator**  
+🔹 **RAG-DSC**  
 🔹 Exploring AI & ML applications in real-world projects  
 
 ### 📖 Currently Learning  
-🔹 **Deep Learning** | 🔹 **AI Model Optimization** | 🔹 **Advanced Backend Architectures**  
+🔹 **Deep Learning**  
+🔹 **AI Model Optimization**  
+🔹 **Advanced Backend Architectures**  
 
-
+---
 
 ### 🏆 Achievements  
-🔹 **Former Project Lead** - GDSC Club | 🔹 **Finalist - Girlathon** | 🔹 **Top 10 - National Level CTF**  
-🔹 **Hackathon Enthusiast** | 🔹 **Active Member - Encide Insider & DSC Clubs**  
+🔹 **Former Project Lead** - GDSC Club  
+🔹 **Finalist - Girlathon**  
+🔹 **Top 10 - National Level CTF**  
+🔹 **Hackathon Enthusiast**  
+🔹 **Active Member - Encide Insider & DSC Clubs**
 
+---
 
 ### 💻 Tech Stack  
 <div align="center">  
@@ -36,7 +45,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" width="150" height="40" />  
 </div>
 
-
+---
 
 ### 📬 Connect With Me  
 <div align="center">
@@ -48,13 +57,16 @@
   </a>
 </div>
 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Krishnapriya-prasannan)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 GitHub Trophies  
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Krishnapriya-prasannan&theme=radical&no-frame=true&margin-w=15&column=7&title=Commits,Repositories,Experience,PullRequest,Merged)](https://github.com/ryo-ma/github-profile-trophy)
 
-###  GitHub Stats  
+---
+
+### 📊 GitHub Stats  
 
 <div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=Krishnapriya-prasannan&show_icons=true&theme=radical" width="600" height="300" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnapriya-prasannan&theme=radical" width="600" height="300" />
 </div>
@@ -64,6 +76,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnapriya-prasannan&theme=radical" width="600" height="300" />
 </div>
 
+---
 
 ### ✨ Fun Fact  
-I love **Hackathons, CTFs**, and **exploring AI innovations**!
+I love **Hackathons, CTFs**, and **exploring AI innovations**!  
