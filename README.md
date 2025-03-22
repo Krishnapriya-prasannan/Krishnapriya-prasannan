@@ -60,7 +60,7 @@
 ---
 
 ### 🏆 GitHub Trophies  
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Krishnapriya-prasannan&theme=radical&no-frame=true&margin-w=15&column=5&title=Commits,Repositories,Experience,PullRequest,Merged,Contributors,Stars,Issues,Followers,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Krishnapriya-prasannan&theme=radical&no-frame=true&margin-w=15&column=10&title=Commits,Repositories,Experience,PullRequest,Merged,Contributors,Stars,Issues,Followers,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
