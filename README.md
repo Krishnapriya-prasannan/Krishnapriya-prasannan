@@ -41,7 +41,7 @@ I'm a **B.Tech Computer Science student** passionate about **web development, AI
 ![Krishnapriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishnapriya-prasannan&show_icons=true&theme=radical)
 
 ### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krishnapriya-prasannan&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Krishnapriya-prasannan&theme=radical)
 
 ### 🚀 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnapriya-prasannan&layout=compact&theme=radical)
