@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **B.Tech student** passionate about **web development, AI, and Machine Learning**. I enjoy building scalable applications and exploring new technologies.
+I'm a **B.Tech Computer Science student** passionate about **web development, AI, and Machine Learning**. I enjoy building scalable applications and exploring new technologies.
 
 ###  Currently working on:
 - **VideoQuery,EnergyConsumptionModel,CalorieCalculator,RAG-DSC**
