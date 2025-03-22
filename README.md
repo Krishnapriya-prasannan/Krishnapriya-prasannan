@@ -31,6 +31,6 @@ I'm a **B.Tech student** passionate about **web development, AI, and Machine Lea
 
 ###  How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnapriya-prasannan)
-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnapriyaprasannan1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnapriyaprasannan1@gmail.com)
 
  **Fun fact:** I love participating in hackathons, CTFs, and exploring AI innovations! 
