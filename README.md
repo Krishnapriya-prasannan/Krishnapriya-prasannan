@@ -35,19 +35,19 @@ I'm a **B.Tech Computer Science student** passionate about **web development, AI
 
 
 ### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Krishnapriya-prasannan&theme=radical&no-frame=true&margin-w=15)
 
 ### 📊 GitHub Stats
-![Krishnapriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Krishnapriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishnapriya-prasannan&show_icons=true&theme=radical)
 
 ### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krishnapriya-prasannan&theme=radical)
 
 ### 🚀 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnapriya-prasannan&layout=compact&theme=radical)
 
 ### 🎭 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Krishnapriya-prasannan&theme=radical)
 
 ---
 
