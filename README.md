@@ -49,9 +49,7 @@
 </div>
 
 
-### 🏆 Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Krishnapriya-prasannan&theme=radical&no-frame=true&margin-w=15&column=7&title=Commits,Repositories,MultiLanguage,Experience,PullRequest,Merged,Contributors)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Krishnapriya-prasannan)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###  GitHub Stats  
 
