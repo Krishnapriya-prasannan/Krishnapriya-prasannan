@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Krishnapriya Prasannan
 
 I'm a **B.Tech Computer Science student** passionate about **web development, AI, and Machine Learning**. I enjoy building scalable applications and exploring new technologies.
 
