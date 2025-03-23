@@ -57,7 +57,6 @@
   </a>
 </div>
 
----
 
 ### 🏆 GitHub Trophies  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Krishnapriya-prasannan&theme=radical&no-frame=true&margin-w=15)
