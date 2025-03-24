@@ -73,7 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnapriya-prasannan&layout=compact&theme=radical" width="600" height="300" />
   
 </div>
-![GitHub Contribution Graph](https://github-contributions.vercel.app/api?username=Krishnapriya-prasannan&theme=github)
+
 ---
 
 ### ✨ Fun Fact  
