@@ -3,21 +3,21 @@
 
 ---
 
-### 🚀 Currently Working On  
+###  Currently Working On  
 🔹 **VideoQuery**  
 🔹 **EnergyConsumptionModel**  
 🔹 **CalorieCalculator**  
 🔹 **RAG-DSC**  
 🔹 Exploring AI & ML applications in real-world projects  
 
-### 📖 Currently Learning  
+###  Currently Learning  
 🔹 **Deep Learning**  
 🔹 **AI Model Optimization**  
 🔹 **Advanced Backend Architectures**  
 
 ---
 
-### 🏆 Achievements  
+###  Achievements  
 🔹 **Former Project Lead** - GDSC Club  
 🔹 **Finalist - Girlathon**  
 🔹 **Top 10 - National Level CTF**  
@@ -47,7 +47,7 @@
 
 ---
 
-### 📬 Connect With Me  
+###  Connect With Me  
 <div align="center">
   <a href="https://linkedin.com/in/krishnapriya-prasannan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="40" />
@@ -58,11 +58,11 @@
 </div>
 
 
-### 🏆 GitHub Trophies  
+###  GitHub Trophies  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Krishnapriya-prasannan&theme=radical&no-frame=true&margin-w=15)
 ---
 
-### 📊 GitHub Stats  
+###  GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishnapriya-prasannan&show_icons=true&theme=radical" width="600" height="300" />
@@ -78,5 +78,5 @@
 
 ---
 
-### ✨ Fun Fact  
+###  Fun Fact  
 I love **Hackathons, CTFs**, and **exploring AI innovations**!  
