@@ -82,7 +82,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
@@ -116,11 +116,11 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
-  <a href="https://colab.research.google.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Google_Colab_logo.svg" alt="Google Colab" width="40" height="40"/>
+   <a href="https://colab.research.google.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Colab" width="40" height="40"/>
   </a>
   <a href="https://jupyter.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
