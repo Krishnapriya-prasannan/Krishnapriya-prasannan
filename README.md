@@ -139,34 +139,30 @@
 
 ---
 
-###  Connect With Me  
-<div align="center">
-  <a href="https://linkedin.com/in/krishnapriya-prasannan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="40" />
+<h3 align="left">Connect With Me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/krishnapriya-prasannan" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
-  <a href="mailto:krishnapriyaprasannan1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="150" height="40" />
+  <a href="mailto:krishnapriyaprasannan1@gmail.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/>
   </a>
-</div>
+</p>
 
 
-###  GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Krishnapriya-prasannan&theme=radical&no-frame=true&margin-w=15)
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishnapriya-prasannan&label=Profile%20views&color=0e75b6&style=flat" alt="Krishnapriya-prasannan" /> </p>
 
-###  GitHub Stats  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krishnapriya-prasannan&theme=radical&no-frame=true&margin-w=15" alt="Krishnapriya-prasannan" /></a> </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishnapriya-prasannan&show_icons=true&theme=radical" width="600" height="300" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnapriya-prasannan&theme=radical" width="600" height="300" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krishnapriya-prasannan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Krishnapriya-prasannan" /></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnapriya-prasannan&layout=compact&theme=radical" width="600" height="300" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Krishnapriya-prasannan&show_icons=true&locale=en&theme=radical" alt="Krishnapriya-prasannan" /></p>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Krishnapriya-prasannan&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnapriya-prasannan&theme=radical" alt="Krishnapriya-prasannan" /></p>
 
-</div>
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnapriya-prasannan&theme=radical" alt="Krishnapriya-prasannan" /></p>
+
+
 
 ---
 
