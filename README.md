@@ -29,7 +29,8 @@
 
 ### 💻 Tech Stack  
 
-  
+<div align="left">
+
 
 #### Programming Languages  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" style="margin: 10px;" />  
@@ -69,7 +70,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Figma-logo.svg" height="40" alt="Figma" style="margin: 10px;" />  
 
 
-
+</div>
 
 
 
