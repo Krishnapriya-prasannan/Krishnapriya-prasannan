@@ -3,12 +3,6 @@
 
 ---
 
-###  Currently Working On  
-🔹 **VideoQuery**  
-🔹 **EnergyConsumptionModel**  
-🔹 **CalorieCalculator**  
-🔹 **RAG-DSC**  
-🔹 Exploring AI & ML applications in real-world projects  
 
 ###  Currently Learning  
 🔹 **Deep Learning**  
