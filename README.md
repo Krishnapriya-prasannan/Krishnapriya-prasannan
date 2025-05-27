@@ -159,4 +159,4 @@
 ---
 
 ###  Fun Fact  
-I love **Hackathons, CTFs**, and **exploring AI innovations**!  
+I love **Coding, Hackathons, CTFs**, and **exploring AI innovations**!  
