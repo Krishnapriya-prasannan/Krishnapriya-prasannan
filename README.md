@@ -5,9 +5,8 @@
 
 
 ###  Currently Learning  
-🔹 **Deep Learning**  
-🔹 **AI Model Optimization**  
-🔹 **Advanced Backend Architectures**  
+🔹 **DSA** 
+🔹 **AI and ML**  
 
 ---
 
