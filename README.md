@@ -11,7 +11,7 @@
 ---
 
 ###  Achievements  
-🔹 **Former Projects & Outreach Team Lead** - GDSC Club  
+🔹 **Former Projects & Outreach Team Lead - GDSC Club **
 🔹 **Finalist - Girlathon**  
 🔹 **Top 10 - National Level CTF**  
 🔹 **Hackathon Enthusiast**  
