@@ -151,13 +151,11 @@
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Krishnapriya-prasannan&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Krishnapriya-prasannan&show_icons=true&locale=en" alt="GitHub Stats" /></td>
-    
-    </tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Krishnapriya-prasannan&show_icons=true&locale=en" alt="GitHub Stats" /></td></tr>
   </table>
 </div>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnapriya-prasannan" alt="GitHub Streak" />
+  <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnapriya-prasannan" alt="GitHub Streak" /></td>
 
 
 ---
