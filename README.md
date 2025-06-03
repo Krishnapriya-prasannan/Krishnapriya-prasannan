@@ -146,12 +146,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishnapriya-prasannan&label=Profile%20views&color=0e75b6&style=flat" alt="Krishnapriya-prasannan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krishnapriya-prasannan" alt="Krishnapriya-prasannan" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krishnapriya-prasannan&show_icons=true&locale=en&layout=compact" alt="Krishnapriya-prasannan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Krishnapriya-prasannan&show_icons=true&locale=en" alt="Krishnapriya-prasannan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnapriya-prasannan" alt="Krishnapriya-prasannan" /></p>
+<!-- GitHub Stats Section -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Krishnapriya-prasannan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishnapriya-prasannan&show_icons=true&locale=en" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnapriya-prasannan" alt="GitHub Streak" />
+</div>
 
 
 
