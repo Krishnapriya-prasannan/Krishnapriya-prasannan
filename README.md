@@ -157,7 +157,7 @@
   </table>
 </div>
 
-  <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnapriya-prasannan" alt="GitHub Streak" /></td>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnapriya-prasannan" alt="GitHub Streak" />
 
 
 ---
