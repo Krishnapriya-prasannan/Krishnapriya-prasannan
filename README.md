@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Krishnapriya Prasannan  
+## Hi there 👋 I am Krishnapriya Prasannan  
 **B.Tech Computer Science Student** | **Web Developer** | **AIML & DSA Enthusiast**  | **CTF Player**
 
 ---
