@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Krishnapriya Prasannan  
-**B.Tech Computer Science Student** | **Web Developer** | **AIML & DSA Enthusiast**  | **CTF Player**
+**B.Tech Computer Science Student at MACE** | **Web Developer** | **AIML & DSA Enthusiast**  | **CTF Player**
 
 ---
 
